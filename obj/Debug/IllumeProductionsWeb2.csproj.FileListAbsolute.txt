@@ -1,0 +1,101 @@
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\ApplicationInsights.config
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\csc.exe
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\vbc.exe
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\VBCSCompiler.exe
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\IllumeProductionsWeb2.dll.config
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\IllumeProductionsWeb2.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\IllumeProductionsWeb2.pdb
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.Web.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.Web.xml
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\obj\Debug\IllumeProductionsWeb2.csprojResolveAssemblyReference.cache
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\obj\Debug\IllumeProductionsWeb2.dll
+C:\Users\MVP\Desktop\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\obj\Debug\IllumeProductionsWeb2.pdb
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\ApplicationInsights.config
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\csc.exe
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\vbc.exe
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\VBCSCompiler.exe
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\IllumeProductionsWeb2.dll.config
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\IllumeProductionsWeb2.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\IllumeProductionsWeb2.pdb
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.Web.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.Web.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\obj\Debug\IllumeProductionsWeb2.csprojResolveAssemblyReference.cache
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\obj\Debug\IllumeProductionsWeb2.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\obj\Debug\IllumeProductionsWeb2.pdb
+C:\Users\MVP\Desktop\Projects\Illume Productions Web 2.0\IllumeProductionsWeb2\IllumeProductionsWeb2\obj\Debug\IllumeProductionsWeb2.csproj.CoreCompileInputs.cache
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\ApplicationInsights.config
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\csc.exe
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\vbc.exe
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\VBCSCompiler.exe
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\IllumeProductionsWeb2.dll.config
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\IllumeProductionsWeb2.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\IllumeProductionsWeb2.pdb
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.AI.Web.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.AI.Web.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\obj\Debug\IllumeProductionsWeb2.csprojResolveAssemblyReference.cache
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\obj\Debug\IllumeProductionsWeb2.csproj.CoreCompileInputs.cache
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\obj\Debug\IllumeProductionsWeb2.dll
+C:\Users\MVP\Desktop\Projects\Illume Productions\Illume Productions Website 2.0\IllumeProductionsWeb2\obj\Debug\IllumeProductionsWeb2.pdb
